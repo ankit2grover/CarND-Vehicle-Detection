@@ -138,7 +138,7 @@ Sample images of Sliding Window and a sample output from the same is shown below
 
 Sliding Window :
 
-[png](./output_images/SlidingWindow.png)
+![png](./output_images/SlidingWindow.png)
 
 
 HOG Subsampling Output :
